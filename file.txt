@@ -1,0 +1,3 @@
+This is the Connection between the Ubuntu Aws instance and Git 
+pushing a File from ec2 instance to git in my login 
+in order to check the connection
